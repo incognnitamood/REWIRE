@@ -1,0 +1,1001 @@
+drug_name,chembl_target,action
+Imatinib,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Imatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Imatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Imatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Imatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Imatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Imatinib,CHEMBL1777,Cytochrome b inhibitor
+Imatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Imatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Imatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Imatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Imatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Imatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Imatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Imatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Imatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Imatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Imatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Imatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Imatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Nilotinib,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Nilotinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Nilotinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Nilotinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Nilotinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Nilotinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Nilotinib,CHEMBL1777,Cytochrome b inhibitor
+Nilotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Nilotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Nilotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Nilotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Nilotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Nilotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Nilotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Nilotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Nilotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Nilotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Nilotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Nilotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Nilotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Dasatinib,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Dasatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Dasatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Dasatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Dasatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Dasatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Dasatinib,CHEMBL1777,Cytochrome b inhibitor
+Dasatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Dasatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Dasatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Dasatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Dasatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Dasatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Dasatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Dasatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Dasatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Dasatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Dasatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Dasatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Dasatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Gefitinib,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Gefitinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Gefitinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Gefitinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Gefitinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Gefitinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Gefitinib,CHEMBL1777,Cytochrome b inhibitor
+Gefitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Gefitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Gefitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Gefitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Gefitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Gefitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Gefitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Gefitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Gefitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Gefitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Gefitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Gefitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Gefitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Erlotinib,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Erlotinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Erlotinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Erlotinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Erlotinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Erlotinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Erlotinib,CHEMBL1777,Cytochrome b inhibitor
+Erlotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Erlotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Erlotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Erlotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Erlotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Erlotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Erlotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Erlotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Erlotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Erlotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Erlotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Erlotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Erlotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Lapatinib,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Lapatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Lapatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Lapatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Lapatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Lapatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Lapatinib,CHEMBL1777,Cytochrome b inhibitor
+Lapatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Lapatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Lapatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Lapatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Lapatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Lapatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Lapatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Lapatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Lapatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Lapatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Lapatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Lapatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Lapatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sorafenib,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Sorafenib,CHEMBL261,Carbonic anhydrase I inhibitor
+Sorafenib,CHEMBL261,Carbonic anhydrase I inhibitor
+Sorafenib,CHEMBL261,Carbonic anhydrase I inhibitor
+Sorafenib,CHEMBL261,Carbonic anhydrase I inhibitor
+Sorafenib,CHEMBL261,Carbonic anhydrase I inhibitor
+Sorafenib,CHEMBL1777,Cytochrome b inhibitor
+Sorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Sorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sunitinib,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Sunitinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Sunitinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Sunitinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Sunitinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Sunitinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Sunitinib,CHEMBL1777,Cytochrome b inhibitor
+Sunitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sunitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sunitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sunitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sunitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sunitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sunitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sunitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sunitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Sunitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sunitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sunitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sunitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pazopanib,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Pazopanib,CHEMBL261,Carbonic anhydrase I inhibitor
+Pazopanib,CHEMBL261,Carbonic anhydrase I inhibitor
+Pazopanib,CHEMBL261,Carbonic anhydrase I inhibitor
+Pazopanib,CHEMBL261,Carbonic anhydrase I inhibitor
+Pazopanib,CHEMBL261,Carbonic anhydrase I inhibitor
+Pazopanib,CHEMBL1777,Cytochrome b inhibitor
+Pazopanib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pazopanib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pazopanib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pazopanib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pazopanib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pazopanib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pazopanib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pazopanib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pazopanib,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Pazopanib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pazopanib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pazopanib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pazopanib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Vemurafenib,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Vemurafenib,CHEMBL261,Carbonic anhydrase I inhibitor
+Vemurafenib,CHEMBL261,Carbonic anhydrase I inhibitor
+Vemurafenib,CHEMBL261,Carbonic anhydrase I inhibitor
+Vemurafenib,CHEMBL261,Carbonic anhydrase I inhibitor
+Vemurafenib,CHEMBL261,Carbonic anhydrase I inhibitor
+Vemurafenib,CHEMBL1777,Cytochrome b inhibitor
+Vemurafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Vemurafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Vemurafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Vemurafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Vemurafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Vemurafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Vemurafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Vemurafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Vemurafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Vemurafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Vemurafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Vemurafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Vemurafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Crizotinib,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Crizotinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Crizotinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Crizotinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Crizotinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Crizotinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Crizotinib,CHEMBL1777,Cytochrome b inhibitor
+Crizotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Crizotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Crizotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Crizotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Crizotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Crizotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Crizotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Crizotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Crizotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Crizotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Crizotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Crizotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Crizotinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Osimertinib,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Osimertinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Osimertinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Osimertinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Osimertinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Osimertinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Osimertinib,CHEMBL1777,Cytochrome b inhibitor
+Osimertinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Osimertinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Osimertinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Osimertinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Osimertinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Osimertinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Osimertinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Osimertinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Osimertinib,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Osimertinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Osimertinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Osimertinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Osimertinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Axitinib,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Axitinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Axitinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Axitinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Axitinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Axitinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Axitinib,CHEMBL1777,Cytochrome b inhibitor
+Axitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Axitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Axitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Axitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Axitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Axitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Axitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Axitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Axitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Axitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Axitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Axitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Axitinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ponatinib,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Ponatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Ponatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Ponatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Ponatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Ponatinib,CHEMBL261,Carbonic anhydrase I inhibitor
+Ponatinib,CHEMBL1777,Cytochrome b inhibitor
+Ponatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ponatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ponatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ponatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ponatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ponatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ponatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ponatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ponatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Ponatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ponatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ponatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ponatinib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Regorafenib,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Regorafenib,CHEMBL261,Carbonic anhydrase I inhibitor
+Regorafenib,CHEMBL261,Carbonic anhydrase I inhibitor
+Regorafenib,CHEMBL261,Carbonic anhydrase I inhibitor
+Regorafenib,CHEMBL261,Carbonic anhydrase I inhibitor
+Regorafenib,CHEMBL261,Carbonic anhydrase I inhibitor
+Regorafenib,CHEMBL1777,Cytochrome b inhibitor
+Regorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Regorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Regorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Regorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Regorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Regorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Regorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Regorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Regorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Regorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Regorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Regorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Regorafenib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Metformin,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Metformin,CHEMBL261,Carbonic anhydrase I inhibitor
+Metformin,CHEMBL261,Carbonic anhydrase I inhibitor
+Metformin,CHEMBL261,Carbonic anhydrase I inhibitor
+Metformin,CHEMBL261,Carbonic anhydrase I inhibitor
+Metformin,CHEMBL261,Carbonic anhydrase I inhibitor
+Metformin,CHEMBL1777,Cytochrome b inhibitor
+Metformin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Metformin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Metformin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Metformin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Metformin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Metformin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Metformin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Metformin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Metformin,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Metformin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Metformin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Metformin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Metformin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Atorvastatin,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Atorvastatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Atorvastatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Atorvastatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Atorvastatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Atorvastatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Atorvastatin,CHEMBL1777,Cytochrome b inhibitor
+Atorvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Atorvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Atorvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Atorvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Atorvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Atorvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Atorvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Atorvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Atorvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Atorvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Atorvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Atorvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Atorvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Rosuvastatin,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Rosuvastatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Rosuvastatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Rosuvastatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Rosuvastatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Rosuvastatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Rosuvastatin,CHEMBL1777,Cytochrome b inhibitor
+Rosuvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Rosuvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Rosuvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Rosuvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Rosuvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Rosuvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Rosuvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Rosuvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Rosuvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Rosuvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Rosuvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Rosuvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Rosuvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Simvastatin,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Simvastatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Simvastatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Simvastatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Simvastatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Simvastatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Simvastatin,CHEMBL1777,Cytochrome b inhibitor
+Simvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Simvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Simvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Simvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Simvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Simvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Simvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Simvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Simvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Simvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Simvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Simvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Simvastatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pioglitazone,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Pioglitazone,CHEMBL261,Carbonic anhydrase I inhibitor
+Pioglitazone,CHEMBL261,Carbonic anhydrase I inhibitor
+Pioglitazone,CHEMBL261,Carbonic anhydrase I inhibitor
+Pioglitazone,CHEMBL261,Carbonic anhydrase I inhibitor
+Pioglitazone,CHEMBL261,Carbonic anhydrase I inhibitor
+Pioglitazone,CHEMBL1777,Cytochrome b inhibitor
+Pioglitazone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pioglitazone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pioglitazone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pioglitazone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pioglitazone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pioglitazone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pioglitazone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pioglitazone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pioglitazone,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Pioglitazone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pioglitazone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pioglitazone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Pioglitazone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Losartan,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Losartan,CHEMBL261,Carbonic anhydrase I inhibitor
+Losartan,CHEMBL261,Carbonic anhydrase I inhibitor
+Losartan,CHEMBL261,Carbonic anhydrase I inhibitor
+Losartan,CHEMBL261,Carbonic anhydrase I inhibitor
+Losartan,CHEMBL261,Carbonic anhydrase I inhibitor
+Losartan,CHEMBL1777,Cytochrome b inhibitor
+Losartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Losartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Losartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Losartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Losartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Losartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Losartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Losartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Losartan,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Losartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Losartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Losartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Losartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Valsartan,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Valsartan,CHEMBL261,Carbonic anhydrase I inhibitor
+Valsartan,CHEMBL261,Carbonic anhydrase I inhibitor
+Valsartan,CHEMBL261,Carbonic anhydrase I inhibitor
+Valsartan,CHEMBL261,Carbonic anhydrase I inhibitor
+Valsartan,CHEMBL261,Carbonic anhydrase I inhibitor
+Valsartan,CHEMBL1777,Cytochrome b inhibitor
+Valsartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Valsartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Valsartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Valsartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Valsartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Valsartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Valsartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Valsartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Valsartan,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Valsartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Valsartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Valsartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Valsartan,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Verapamil,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Verapamil,CHEMBL261,Carbonic anhydrase I inhibitor
+Verapamil,CHEMBL261,Carbonic anhydrase I inhibitor
+Verapamil,CHEMBL261,Carbonic anhydrase I inhibitor
+Verapamil,CHEMBL261,Carbonic anhydrase I inhibitor
+Verapamil,CHEMBL261,Carbonic anhydrase I inhibitor
+Verapamil,CHEMBL1777,Cytochrome b inhibitor
+Verapamil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Verapamil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Verapamil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Verapamil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Verapamil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Verapamil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Verapamil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Verapamil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Verapamil,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Verapamil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Verapamil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Verapamil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Verapamil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Amlodipine,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Amlodipine,CHEMBL261,Carbonic anhydrase I inhibitor
+Amlodipine,CHEMBL261,Carbonic anhydrase I inhibitor
+Amlodipine,CHEMBL261,Carbonic anhydrase I inhibitor
+Amlodipine,CHEMBL261,Carbonic anhydrase I inhibitor
+Amlodipine,CHEMBL261,Carbonic anhydrase I inhibitor
+Amlodipine,CHEMBL1777,Cytochrome b inhibitor
+Amlodipine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Amlodipine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Amlodipine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Amlodipine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Amlodipine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Amlodipine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Amlodipine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Amlodipine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Amlodipine,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Amlodipine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Amlodipine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Amlodipine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Amlodipine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Propranolol,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Propranolol,CHEMBL261,Carbonic anhydrase I inhibitor
+Propranolol,CHEMBL261,Carbonic anhydrase I inhibitor
+Propranolol,CHEMBL261,Carbonic anhydrase I inhibitor
+Propranolol,CHEMBL261,Carbonic anhydrase I inhibitor
+Propranolol,CHEMBL261,Carbonic anhydrase I inhibitor
+Propranolol,CHEMBL1777,Cytochrome b inhibitor
+Propranolol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Propranolol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Propranolol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Propranolol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Propranolol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Propranolol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Propranolol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Propranolol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Propranolol,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Propranolol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Propranolol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Propranolol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Propranolol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Fluoxetine,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Fluoxetine,CHEMBL261,Carbonic anhydrase I inhibitor
+Fluoxetine,CHEMBL261,Carbonic anhydrase I inhibitor
+Fluoxetine,CHEMBL261,Carbonic anhydrase I inhibitor
+Fluoxetine,CHEMBL261,Carbonic anhydrase I inhibitor
+Fluoxetine,CHEMBL261,Carbonic anhydrase I inhibitor
+Fluoxetine,CHEMBL1777,Cytochrome b inhibitor
+Fluoxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Fluoxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Fluoxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Fluoxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Fluoxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Fluoxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Fluoxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Fluoxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Fluoxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Fluoxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Fluoxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Fluoxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Fluoxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sertraline,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Sertraline,CHEMBL261,Carbonic anhydrase I inhibitor
+Sertraline,CHEMBL261,Carbonic anhydrase I inhibitor
+Sertraline,CHEMBL261,Carbonic anhydrase I inhibitor
+Sertraline,CHEMBL261,Carbonic anhydrase I inhibitor
+Sertraline,CHEMBL261,Carbonic anhydrase I inhibitor
+Sertraline,CHEMBL1777,Cytochrome b inhibitor
+Sertraline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sertraline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sertraline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sertraline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sertraline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sertraline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sertraline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sertraline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sertraline,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Sertraline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sertraline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sertraline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Sertraline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Paroxetine,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Paroxetine,CHEMBL261,Carbonic anhydrase I inhibitor
+Paroxetine,CHEMBL261,Carbonic anhydrase I inhibitor
+Paroxetine,CHEMBL261,Carbonic anhydrase I inhibitor
+Paroxetine,CHEMBL261,Carbonic anhydrase I inhibitor
+Paroxetine,CHEMBL261,Carbonic anhydrase I inhibitor
+Paroxetine,CHEMBL1777,Cytochrome b inhibitor
+Paroxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Paroxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Paroxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Paroxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Paroxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Paroxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Paroxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Paroxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Paroxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Paroxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Paroxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Paroxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Paroxetine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Haloperidol,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Haloperidol,CHEMBL261,Carbonic anhydrase I inhibitor
+Haloperidol,CHEMBL261,Carbonic anhydrase I inhibitor
+Haloperidol,CHEMBL261,Carbonic anhydrase I inhibitor
+Haloperidol,CHEMBL261,Carbonic anhydrase I inhibitor
+Haloperidol,CHEMBL261,Carbonic anhydrase I inhibitor
+Haloperidol,CHEMBL1777,Cytochrome b inhibitor
+Haloperidol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Haloperidol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Haloperidol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Haloperidol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Haloperidol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Haloperidol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Haloperidol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Haloperidol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Haloperidol,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Haloperidol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Haloperidol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Haloperidol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Haloperidol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Risperidone,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Risperidone,CHEMBL261,Carbonic anhydrase I inhibitor
+Risperidone,CHEMBL261,Carbonic anhydrase I inhibitor
+Risperidone,CHEMBL261,Carbonic anhydrase I inhibitor
+Risperidone,CHEMBL261,Carbonic anhydrase I inhibitor
+Risperidone,CHEMBL261,Carbonic anhydrase I inhibitor
+Risperidone,CHEMBL1777,Cytochrome b inhibitor
+Risperidone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Risperidone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Risperidone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Risperidone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Risperidone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Risperidone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Risperidone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Risperidone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Risperidone,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Risperidone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Risperidone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Risperidone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Risperidone,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Olanzapine,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Olanzapine,CHEMBL261,Carbonic anhydrase I inhibitor
+Olanzapine,CHEMBL261,Carbonic anhydrase I inhibitor
+Olanzapine,CHEMBL261,Carbonic anhydrase I inhibitor
+Olanzapine,CHEMBL261,Carbonic anhydrase I inhibitor
+Olanzapine,CHEMBL261,Carbonic anhydrase I inhibitor
+Olanzapine,CHEMBL1777,Cytochrome b inhibitor
+Olanzapine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Olanzapine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Olanzapine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Olanzapine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Olanzapine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Olanzapine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Olanzapine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Olanzapine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Olanzapine,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Olanzapine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Olanzapine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Olanzapine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Olanzapine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Levodopa,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Levodopa,CHEMBL261,Carbonic anhydrase I inhibitor
+Levodopa,CHEMBL261,Carbonic anhydrase I inhibitor
+Levodopa,CHEMBL261,Carbonic anhydrase I inhibitor
+Levodopa,CHEMBL261,Carbonic anhydrase I inhibitor
+Levodopa,CHEMBL261,Carbonic anhydrase I inhibitor
+Levodopa,CHEMBL1777,Cytochrome b inhibitor
+Levodopa,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Levodopa,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Levodopa,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Levodopa,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Levodopa,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Levodopa,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Levodopa,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Levodopa,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Levodopa,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Levodopa,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Levodopa,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Levodopa,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Levodopa,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Selegiline,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Selegiline,CHEMBL261,Carbonic anhydrase I inhibitor
+Selegiline,CHEMBL261,Carbonic anhydrase I inhibitor
+Selegiline,CHEMBL261,Carbonic anhydrase I inhibitor
+Selegiline,CHEMBL261,Carbonic anhydrase I inhibitor
+Selegiline,CHEMBL261,Carbonic anhydrase I inhibitor
+Selegiline,CHEMBL1777,Cytochrome b inhibitor
+Selegiline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Selegiline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Selegiline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Selegiline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Selegiline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Selegiline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Selegiline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Selegiline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Selegiline,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Selegiline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Selegiline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Selegiline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Selegiline,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Donepezil,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Donepezil,CHEMBL261,Carbonic anhydrase I inhibitor
+Donepezil,CHEMBL261,Carbonic anhydrase I inhibitor
+Donepezil,CHEMBL261,Carbonic anhydrase I inhibitor
+Donepezil,CHEMBL261,Carbonic anhydrase I inhibitor
+Donepezil,CHEMBL261,Carbonic anhydrase I inhibitor
+Donepezil,CHEMBL1777,Cytochrome b inhibitor
+Donepezil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Donepezil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Donepezil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Donepezil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Donepezil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Donepezil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Donepezil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Donepezil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Donepezil,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Donepezil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Donepezil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Donepezil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Donepezil,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Memantine,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Memantine,CHEMBL261,Carbonic anhydrase I inhibitor
+Memantine,CHEMBL261,Carbonic anhydrase I inhibitor
+Memantine,CHEMBL261,Carbonic anhydrase I inhibitor
+Memantine,CHEMBL261,Carbonic anhydrase I inhibitor
+Memantine,CHEMBL261,Carbonic anhydrase I inhibitor
+Memantine,CHEMBL1777,Cytochrome b inhibitor
+Memantine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Memantine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Memantine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Memantine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Memantine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Memantine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Memantine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Memantine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Memantine,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Memantine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Memantine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Memantine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Memantine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Galantamine,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Galantamine,CHEMBL261,Carbonic anhydrase I inhibitor
+Galantamine,CHEMBL261,Carbonic anhydrase I inhibitor
+Galantamine,CHEMBL261,Carbonic anhydrase I inhibitor
+Galantamine,CHEMBL261,Carbonic anhydrase I inhibitor
+Galantamine,CHEMBL261,Carbonic anhydrase I inhibitor
+Galantamine,CHEMBL1777,Cytochrome b inhibitor
+Galantamine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Galantamine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Galantamine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Galantamine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Galantamine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Galantamine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Galantamine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Galantamine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Galantamine,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Galantamine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Galantamine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Galantamine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Galantamine,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Riluzole,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Riluzole,CHEMBL261,Carbonic anhydrase I inhibitor
+Riluzole,CHEMBL261,Carbonic anhydrase I inhibitor
+Riluzole,CHEMBL261,Carbonic anhydrase I inhibitor
+Riluzole,CHEMBL261,Carbonic anhydrase I inhibitor
+Riluzole,CHEMBL261,Carbonic anhydrase I inhibitor
+Riluzole,CHEMBL1777,Cytochrome b inhibitor
+Riluzole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Riluzole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Riluzole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Riluzole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Riluzole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Riluzole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Riluzole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Riluzole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Riluzole,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Riluzole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Riluzole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Riluzole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Riluzole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Celecoxib,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Celecoxib,CHEMBL261,Carbonic anhydrase I inhibitor
+Celecoxib,CHEMBL261,Carbonic anhydrase I inhibitor
+Celecoxib,CHEMBL261,Carbonic anhydrase I inhibitor
+Celecoxib,CHEMBL261,Carbonic anhydrase I inhibitor
+Celecoxib,CHEMBL261,Carbonic anhydrase I inhibitor
+Celecoxib,CHEMBL1777,Cytochrome b inhibitor
+Celecoxib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Celecoxib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Celecoxib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Celecoxib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Celecoxib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Celecoxib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Celecoxib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Celecoxib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Celecoxib,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Celecoxib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Celecoxib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Celecoxib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Celecoxib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ibuprofen,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Ibuprofen,CHEMBL261,Carbonic anhydrase I inhibitor
+Ibuprofen,CHEMBL261,Carbonic anhydrase I inhibitor
+Ibuprofen,CHEMBL261,Carbonic anhydrase I inhibitor
+Ibuprofen,CHEMBL261,Carbonic anhydrase I inhibitor
+Ibuprofen,CHEMBL261,Carbonic anhydrase I inhibitor
+Ibuprofen,CHEMBL1777,Cytochrome b inhibitor
+Ibuprofen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ibuprofen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ibuprofen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ibuprofen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ibuprofen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ibuprofen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ibuprofen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ibuprofen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ibuprofen,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Ibuprofen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ibuprofen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ibuprofen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Ibuprofen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Diclofenac,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Diclofenac,CHEMBL261,Carbonic anhydrase I inhibitor
+Diclofenac,CHEMBL261,Carbonic anhydrase I inhibitor
+Diclofenac,CHEMBL261,Carbonic anhydrase I inhibitor
+Diclofenac,CHEMBL261,Carbonic anhydrase I inhibitor
+Diclofenac,CHEMBL261,Carbonic anhydrase I inhibitor
+Diclofenac,CHEMBL1777,Cytochrome b inhibitor
+Diclofenac,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Diclofenac,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Diclofenac,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Diclofenac,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Diclofenac,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Diclofenac,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Diclofenac,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Diclofenac,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Diclofenac,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Diclofenac,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Diclofenac,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Diclofenac,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Diclofenac,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Allopurinol,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Allopurinol,CHEMBL261,Carbonic anhydrase I inhibitor
+Allopurinol,CHEMBL261,Carbonic anhydrase I inhibitor
+Allopurinol,CHEMBL261,Carbonic anhydrase I inhibitor
+Allopurinol,CHEMBL261,Carbonic anhydrase I inhibitor
+Allopurinol,CHEMBL261,Carbonic anhydrase I inhibitor
+Allopurinol,CHEMBL1777,Cytochrome b inhibitor
+Allopurinol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Allopurinol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Allopurinol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Allopurinol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Allopurinol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Allopurinol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Allopurinol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Allopurinol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Allopurinol,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Allopurinol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Allopurinol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Allopurinol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Allopurinol,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Methotrexate,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Methotrexate,CHEMBL261,Carbonic anhydrase I inhibitor
+Methotrexate,CHEMBL261,Carbonic anhydrase I inhibitor
+Methotrexate,CHEMBL261,Carbonic anhydrase I inhibitor
+Methotrexate,CHEMBL261,Carbonic anhydrase I inhibitor
+Methotrexate,CHEMBL261,Carbonic anhydrase I inhibitor
+Methotrexate,CHEMBL1777,Cytochrome b inhibitor
+Methotrexate,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Methotrexate,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Methotrexate,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Methotrexate,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Methotrexate,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Methotrexate,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Methotrexate,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Methotrexate,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Methotrexate,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Methotrexate,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Methotrexate,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Methotrexate,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Methotrexate,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Tamoxifen,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Tamoxifen,CHEMBL261,Carbonic anhydrase I inhibitor
+Tamoxifen,CHEMBL261,Carbonic anhydrase I inhibitor
+Tamoxifen,CHEMBL261,Carbonic anhydrase I inhibitor
+Tamoxifen,CHEMBL261,Carbonic anhydrase I inhibitor
+Tamoxifen,CHEMBL261,Carbonic anhydrase I inhibitor
+Tamoxifen,CHEMBL1777,Cytochrome b inhibitor
+Tamoxifen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Tamoxifen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Tamoxifen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Tamoxifen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Tamoxifen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Tamoxifen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Tamoxifen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Tamoxifen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Tamoxifen,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Tamoxifen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Tamoxifen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Tamoxifen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Tamoxifen,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Anastrozole,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Anastrozole,CHEMBL261,Carbonic anhydrase I inhibitor
+Anastrozole,CHEMBL261,Carbonic anhydrase I inhibitor
+Anastrozole,CHEMBL261,Carbonic anhydrase I inhibitor
+Anastrozole,CHEMBL261,Carbonic anhydrase I inhibitor
+Anastrozole,CHEMBL261,Carbonic anhydrase I inhibitor
+Anastrozole,CHEMBL1777,Cytochrome b inhibitor
+Anastrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Anastrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Anastrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Anastrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Anastrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Anastrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Anastrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Anastrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Anastrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Anastrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Anastrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Anastrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Anastrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Letrozole,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Letrozole,CHEMBL261,Carbonic anhydrase I inhibitor
+Letrozole,CHEMBL261,Carbonic anhydrase I inhibitor
+Letrozole,CHEMBL261,Carbonic anhydrase I inhibitor
+Letrozole,CHEMBL261,Carbonic anhydrase I inhibitor
+Letrozole,CHEMBL261,Carbonic anhydrase I inhibitor
+Letrozole,CHEMBL1777,Cytochrome b inhibitor
+Letrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Letrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Letrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Letrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Letrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Letrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Letrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Letrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Letrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Letrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Letrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Letrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Letrozole,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bexarotene,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Bexarotene,CHEMBL261,Carbonic anhydrase I inhibitor
+Bexarotene,CHEMBL261,Carbonic anhydrase I inhibitor
+Bexarotene,CHEMBL261,Carbonic anhydrase I inhibitor
+Bexarotene,CHEMBL261,Carbonic anhydrase I inhibitor
+Bexarotene,CHEMBL261,Carbonic anhydrase I inhibitor
+Bexarotene,CHEMBL1777,Cytochrome b inhibitor
+Bexarotene,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bexarotene,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bexarotene,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bexarotene,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bexarotene,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bexarotene,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bexarotene,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bexarotene,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bexarotene,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Bexarotene,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bexarotene,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bexarotene,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bexarotene,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Etoposide,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Etoposide,CHEMBL261,Carbonic anhydrase I inhibitor
+Etoposide,CHEMBL261,Carbonic anhydrase I inhibitor
+Etoposide,CHEMBL261,Carbonic anhydrase I inhibitor
+Etoposide,CHEMBL261,Carbonic anhydrase I inhibitor
+Etoposide,CHEMBL261,Carbonic anhydrase I inhibitor
+Etoposide,CHEMBL1777,Cytochrome b inhibitor
+Etoposide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Etoposide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Etoposide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Etoposide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Etoposide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Etoposide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Etoposide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Etoposide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Etoposide,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Etoposide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Etoposide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Etoposide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Etoposide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cisplatin,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Cisplatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Cisplatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Cisplatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Cisplatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Cisplatin,CHEMBL261,Carbonic anhydrase I inhibitor
+Cisplatin,CHEMBL1777,Cytochrome b inhibitor
+Cisplatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cisplatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cisplatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cisplatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cisplatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cisplatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cisplatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cisplatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cisplatin,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Cisplatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cisplatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cisplatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cisplatin,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cyclophosphamide,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Cyclophosphamide,CHEMBL261,Carbonic anhydrase I inhibitor
+Cyclophosphamide,CHEMBL261,Carbonic anhydrase I inhibitor
+Cyclophosphamide,CHEMBL261,Carbonic anhydrase I inhibitor
+Cyclophosphamide,CHEMBL261,Carbonic anhydrase I inhibitor
+Cyclophosphamide,CHEMBL261,Carbonic anhydrase I inhibitor
+Cyclophosphamide,CHEMBL1777,Cytochrome b inhibitor
+Cyclophosphamide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cyclophosphamide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cyclophosphamide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cyclophosphamide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cyclophosphamide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cyclophosphamide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cyclophosphamide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cyclophosphamide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cyclophosphamide,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Cyclophosphamide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cyclophosphamide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cyclophosphamide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Cyclophosphamide,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bortezomib,CHEMBL2326,Carbonic anhydrase VII inhibitor
+Bortezomib,CHEMBL261,Carbonic anhydrase I inhibitor
+Bortezomib,CHEMBL261,Carbonic anhydrase I inhibitor
+Bortezomib,CHEMBL261,Carbonic anhydrase I inhibitor
+Bortezomib,CHEMBL261,Carbonic anhydrase I inhibitor
+Bortezomib,CHEMBL261,Carbonic anhydrase I inhibitor
+Bortezomib,CHEMBL1777,Cytochrome b inhibitor
+Bortezomib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bortezomib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bortezomib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bortezomib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bortezomib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bortezomib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bortezomib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bortezomib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bortezomib,CHEMBL245,Muscarinic acetylcholine receptor M3 agonist
+Bortezomib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bortezomib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bortezomib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
+Bortezomib,CHEMBL245,Muscarinic acetylcholine receptor M3 antagonist
