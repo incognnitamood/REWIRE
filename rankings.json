@@ -1,0 +1,87 @@
+{
+  "Parkinson's Disease": [
+    {
+      "rank": 1,
+      "drug": "Lapatinib",
+      "score": 0.9766152501106262
+    },
+    {
+      "rank": 2,
+      "drug": "Ponatinib",
+      "score": 0.975498378276825
+    },
+    {
+      "rank": 3,
+      "drug": "Crizotinib",
+      "score": 0.9748493432998657
+    }
+  ],
+  "Alzheimer's Disease": [
+    {
+      "rank": 1,
+      "drug": "Lapatinib",
+      "score": 0.8787725567817688
+    },
+    {
+      "rank": 2,
+      "drug": "Gefitinib",
+      "score": 0.8779581785202026
+    },
+    {
+      "rank": 3,
+      "drug": "Erlotinib",
+      "score": 0.8779581785202026
+    }
+  ],
+  "Type 2 Diabetes": [
+    {
+      "rank": 1,
+      "drug": "Lapatinib",
+      "score": 0.8699954152107239
+    },
+    {
+      "rank": 2,
+      "drug": "Ponatinib",
+      "score": 0.8668754696846008
+    },
+    {
+      "rank": 3,
+      "drug": "Dasatinib",
+      "score": 0.8646875619888306
+    }
+  ],
+  "Breast Cancer": [
+    {
+      "rank": 1,
+      "drug": "Lapatinib",
+      "score": 0.7953546643257141
+    },
+    {
+      "rank": 2,
+      "drug": "Ponatinib",
+      "score": 0.7919721007347107
+    },
+    {
+      "rank": 3,
+      "drug": "Crizotinib",
+      "score": 0.7898501753807068
+    }
+  ],
+  "Hypertension": [
+    {
+      "rank": 1,
+      "drug": "Lapatinib",
+      "score": 0.9005197286605835
+    },
+    {
+      "rank": 2,
+      "drug": "Dasatinib",
+      "score": 0.8986415863037109
+    },
+    {
+      "rank": 3,
+      "drug": "Erlotinib",
+      "score": 0.8985177874565125
+    }
+  ]
+}
