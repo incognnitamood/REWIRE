@@ -1,0 +1,24 @@
+# REWIRE Drug Repurposing System - Python Dependencies
+
+# Core data processing
+numpy>=1.24.0
+pandas>=1.5.0
+
+# Network analysis
+networkx>=3.0
+python-louvain>=0.16
+
+# Machine learning & statistics
+scikit-learn>=1.2.0
+scipy>=1.10.0
+
+# Web/API
+requests>=2.28.0
+streamlit>=1.20.0
+
+# Type hints (Python 3.10+)
+# typing-extensions>=4.5.0
+
+# Optional: For development/testing
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
